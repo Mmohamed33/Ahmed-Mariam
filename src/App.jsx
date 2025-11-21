@@ -4,6 +4,7 @@ import { Heart, MapPin, Calendar, Clock, Send } from 'lucide-react';
 export default function WeddingInvitation() {
   const [countdown, setCountdown] = useState({ days: 0, hours: 0, minutes: 0, seconds: 0 });
   const [formData, setFormData] = useState({ name: '', message: '' });
+  // const [formData, setFormData] = useState({ name: '', message: '' });
   const [wishes, setWishes] = useState([
     { name: 'Sarah ', message: 'Wishing you both a lifetime of happiness and love! So excited to celebrate with you.' },
     { name: 'Abdallah', message: 'Congratulations, you two! Can\'t wait for the big day. Your journey together is inspiring.' }
