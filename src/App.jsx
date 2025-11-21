@@ -11,7 +11,7 @@ export default function WeddingInvitation() {
   ]);
 
   useEffect(() => {
-    const weddingDate = new Date('2024-10-26T16:00:00');
+    const weddingDate = new Date('2025-12-19T16:00:00');
     
     const timer = setInterval(() => {
       const now = new Date();
@@ -274,14 +274,14 @@ export default function WeddingInvitation() {
                 <div className="flex items-center gap-3">
                   <Calendar size={20} className="text-rose-600" />
                   <div>
-                    <div className="font-semibold text-gray-800">Ceremony</div>
-                    <div className="text-gray-600">4:00 PM</div>
+                    <div className="font-semibold text-gray-800">shebeen El-Kom</div>
+                    <div className="text-gray-600">8:00 PM</div>
                   </div>
                 </div>
                 <div className="flex items-center gap-3">
                   <Clock size={20} className="text-rose-600" />
                   <div>
-                    <div className="font-semibold text-gray-800">Reception</div>
+                    <div className="font-semibold text-gray-800">Fair Park wedding</div>
                     <div className="text-gray-600">6:00 PM</div>
                   </div>
                 </div>
