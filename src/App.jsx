@@ -265,7 +265,7 @@ export default function WeddingInvitation() {
           <h2 className="font-serif text-4xl text-gray-800 text-center mb-12">Location & Schedule</h2>
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="slide-left">
-              <h3 className="text-2xl font-serif text-gray-800 mb-4">The Vineyard Estate</h3>
+              <h3 className="text-2xl font-serif text-gray-800 mb-4">The Fire Park</h3>
               <p className="text-gray-600 mb-6 flex items-center gap-2">
                 <MapPin size={20} className="text-rose-600" />
                 قاعة fair park، شارع المصنع، قسم شبين الكوم، شبين الكوم، محافظة المنوفية 
