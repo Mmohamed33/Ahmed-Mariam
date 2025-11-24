@@ -226,7 +226,7 @@ export default function WeddingInvitation() {
             Celebrating the Union of<br />
             <span className="text-shimmer">Ahmed & Mariam</span>
           </h1>
-          <p className="text-xl mb-8 text-rose-100">Novamber 19, 2025</p>
+          <p className="text-xl mb-8 text-rose-100">December 19, 2025</p>
           <button className="bg-rose-500 hover:bg-rose-600 text-white px-8 py-3 rounded-full text-lg btn-hover rose-glow">
             RSVP
           </button>
@@ -268,7 +268,7 @@ export default function WeddingInvitation() {
               <h3 className="text-2xl font-serif text-gray-800 mb-4">The Vineyard Estate</h3>
               <p className="text-gray-600 mb-6 flex items-center gap-2">
                 <MapPin size={20} className="text-rose-600" />
-                123 Vineyard Lane, Napa Valley, CA 94558
+                قاعة fair park، شارع المصنع، قسم شبين الكوم، شبين الكوم، محافظة المنوفية 
               </p>
               <div className="space-y-3 mb-6">
                 <div className="flex items-center gap-3">
@@ -377,7 +377,7 @@ export default function WeddingInvitation() {
       <footer className="bg-gradient-to-r from-rose-900 to-rose-800 text-white py-12 text-center">
         <Heart className="heartbeat mx-auto mb-4 text-rose-300" size={40} />
         <p className="text-xl font-serif mb-2">Ahmed & Mariam</p>
-        <p className="text-rose-200">Novamber 19, 2025</p>
+        <p className="text-rose-200">December 19, 2025</p>
         <p className="text-rose-300 text-sm mt-4">With love and gratitude</p>
       </footer>
     </div>
