@@ -293,7 +293,7 @@ export default function WeddingInvitation() {
             </div>
             <div className="slide-right rounded-2xl overflow-hidden shadow-xl">
               <img 
-                src="/public/wed.jpg" 
+                src="wed.jpg" 
                 alt="Vineyard" 
                 className="w-full h-96 object-cover journey-img"
               />
