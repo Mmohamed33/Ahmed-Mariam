@@ -291,7 +291,7 @@ export default function WeddingInvitation() {
                 <MapPin size={18} />
               </button>
             </div>
-            <div className="slide-right rounded-2xl overflow-hidden shadow-xl">
+            <div className="slide-right rounded-2xl overflow-hidden shadow-xl width:90%">
               <img 
                 src="wed.jpg" 
                 alt="Vineyard" 
